@@ -1,0 +1,12 @@
+AB
+4
+CB
+2
+DC
+2
+DB
+2
+DA
+There is no possible route
+AC
+4
